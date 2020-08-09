@@ -4,9 +4,8 @@ I created a summary of all the grammar points from [どんな時どう使う日�
 Formats include png, pdf, Mindnode file, csv, xlsx, orginal scanned pages.
 
 How to use:
-* You can use the pdf or excel file to search for the grammar points you want to look up, then use the book to learn more about them. 
-* You can view this mindmap online using the image file
+* You can use the [excel](https://github.com/weszerzad/All-Japanese-Grammar/blob/master/All%20Japanese%20Grammar.xlsx) or [pdf](https://github.com/weszerzad/All-Japanese-Grammar/blob/master/All%20Japanese%20Grammar.pdf) file to search for the grammar points you want to look up, then use the book to learn more about them. 
+* You can view this mindmap online using the [image file](https://github.com/weszerzad/All-Japanese-Grammar/blob/master/All%20Japanese%20Grammar.png)
 * Feel free to modify this mindmap the way you want. I have included the scanned pages, and Mindnode file ;)
 
-がんばろう　<3
-🇻🇳
+Keep up the hard word ❤️ 🇻🇳
