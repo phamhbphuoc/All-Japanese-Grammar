@@ -3,4 +3,4 @@ I created a summary of all the grammar points from [どんな時どう使う日�
 
 Formats include png, pdf, Mindnode file, csv, xlsx, orginal scanned pages.
 
-You can use the pdf file to search for the grammar points you want to look up, then use the book to learn more about it. 
+You can use the pdf file to search for the grammar points you want to look up, then use the book to learn more about them. 
